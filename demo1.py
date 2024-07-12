@@ -1,4 +1,6 @@
 print("hello world")
-int a=10
-print(a)
-print(a+8)
+a=10
+b=8
+c=5
+print(a+b)
+print(c)
